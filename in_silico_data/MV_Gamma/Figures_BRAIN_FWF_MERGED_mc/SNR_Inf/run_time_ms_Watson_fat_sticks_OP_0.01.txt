@@ -1,0 +1,3 @@
+      dtd_gamma      32.0485
+ dtd_covariance       0.9216
+   dtd_mv_gamma    3298.4958
